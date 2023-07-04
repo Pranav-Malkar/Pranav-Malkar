@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pranav-Malkar
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ..
+- 🌱 I’m currently learning @CDAC
 - 📫 How to reach me ...
 
 <!---
